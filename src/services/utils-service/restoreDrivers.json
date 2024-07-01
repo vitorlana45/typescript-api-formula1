@@ -1,0 +1,164 @@
+[
+        {
+            "id": 1,
+            "name": "Max Verstappen",
+            "team": "Red Bull Racing Honda",
+            "car_number": 33,
+            "current_points": 240,
+            "wins": 9,
+            "world_championships": 1
+        },
+        {
+            "id": 2,
+            "name": "Lewis Hamilton",
+            "team": "Mercedes",
+            "car_number": 44,
+            "current_points": 220,
+            "wins": 7,
+            "world_championships": 7
+        },
+        {
+            "id": 3,
+            "name": "Lando Norris",
+            "team": "McLaren",
+            "car_number": 4,
+            "current_points": 150,
+            "wins": 2,
+            "world_championships": 0
+        },
+        {
+            "id": 4,
+            "name": "Sergio Perez",
+            "team": "Red Bull Racing Honda",
+            "car_number": 11,
+            "current_points": 140,
+            "wins": 2,
+            "world_championships": 0
+        },
+        {
+            "id": 5,
+            "name": "Valtteri Bottas",
+            "team": "Mercedes",
+            "car_number": 77,
+            "current_points": 110,
+            "wins": 3,
+            "world_championships": 0
+        },
+        {
+            "id": 6,
+            "name": "Charles Leclerc",
+            "team": "Ferrari",
+            "car_number": 16,
+            "current_points": 100,
+            "wins": 1,
+            "world_championships": 0
+        },
+        {
+            "id": 7,
+            "name": "Carlos Sainz Jr.",
+            "team": "Ferrari",
+            "car_number": 55,
+            "current_points": 80,
+            "wins": 0,
+            "world_championships": 0
+        },
+        {
+            "id": 8,
+            "name": "Daniel Ricciardo",
+            "team": "McLaren",
+            "car_number": 3,
+            "current_points": 65,
+            "wins": 1,
+            "world_championships": 0
+        },
+        {
+            "id": 9,
+            "name": "Pierre Gasly",
+            "team": "AlphaTauri",
+            "car_number": 10,
+            "current_points": 50,
+            "wins": 0,
+            "world_championships": 0
+        },
+        {
+            "id": 10,
+            "name": "Sebastian Vettel",
+            "team": "Aston Martin",
+            "car_number": 5,
+            "current_points": 45,
+            "wins": 1,
+            "world_championships": 4
+        },
+        {
+            "id": 11,
+            "name": "Esteban Ocon",
+            "team": "Alpine",
+            "car_number": 31,
+            "current_points": 35,
+            "wins": 0,
+            "world_championships": 0
+        },
+        {
+            "id": 12,
+            "name": "Fernando Alonso",
+            "team": "Alpine",
+            "car_number": 14,
+            "current_points": 30,
+            "wins": 2,
+            "world_championships": 2
+        },
+        {
+            "id": 13,
+            "name": "Nicholas Latifi",
+            "team": "Williams",
+            "car_number": 6,
+            "current_points": 20,
+            "wins": 0,
+            "world_championships": 0
+        },
+        {
+            "id": 14,
+            "name": "George Russell",
+            "team": "Williams",
+            "car_number": 63,
+            "current_points": 18,
+            "wins": 0,
+            "world_championships": 0
+        },
+        {
+            "id": 15,
+            "name": "Kimi Räikkönen",
+            "team": "Alfa Romeo Racing",
+            "car_number": 7,
+            "current_points": 15,
+            "wins": 21,
+            "world_championships": 1
+        },
+        {
+            "id": 16,
+            "name": "Antonio Giovinazzi",
+            "team": "Alfa Romeo Racing",
+            "car_number": 99,
+            "current_points": 12,
+            "wins": 0,
+            "world_championships": 0
+        },
+        {
+            "id": 17,
+            "name": "Yuki Tsunoda",
+            "team": "AlphaTauri",
+            "car_number": 22,
+            "current_points": 10,
+            "wins": 0,
+            "world_championships": 0
+        },
+        {
+            "id": 18,
+            "name": "Mick Schumacher",
+            "team": "Haas F1 Team",
+            "car_number": 47,
+            "current_points": 5,
+            "wins": 0,
+            "world_championships": 0
+        }
+    ]
